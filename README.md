@@ -62,7 +62,7 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
 
 4.3. Operatör İşlem Önceliği 
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Operator_tablosu-4.png)
 
 ---
 
