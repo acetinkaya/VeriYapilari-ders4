@@ -32,10 +32,10 @@ Bu ders içerisinde;
   
 2.5. Bit Düzeyinde Operatörler   
   
-4. Operatör Önceliği
+3. Operatör Önceliği
    
-5. Uygulamalı Örnekler ve Alıştırmalar
+4. Uygulamalı Örnekler ve Alıştırmalar
   
-6. ASCII Tablosu
+5. ASCII Tablosu
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Asci.png)
