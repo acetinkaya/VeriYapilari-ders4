@@ -1,5 +1,5 @@
 ## Python - Veri Yapıları ve Algoritmalar
-
+# Ders 4. Programlama Dilinde Operatör Kavramı ve İşlemler
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
