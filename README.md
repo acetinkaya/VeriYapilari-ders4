@@ -1,6 +1,6 @@
 ## VeriYapilari-ders4
 
-[!AlternatifMetin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
 Bu ders içerisinde;
 
