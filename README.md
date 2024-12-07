@@ -102,4 +102,9 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print("a and b:", a and b)
     print("a or b:", a or b)
     print("not a:", not a)
+    
+# Örnek - 5:
 
+    x = 7
+    x += 3  # x = x + 3
+    print(x) 
