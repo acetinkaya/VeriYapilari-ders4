@@ -18,11 +18,11 @@ Bu ders içerisinde;
   
 ---
 
-Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanılan sembollerdir. Python'da operatörler, değişkenler ve değerler üzerinde işlemler gerçekleştirmek için kullanılmaktadır.
+1. Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanılan sembollerdir. Python'da operatörler, değişkenler ve değerler üzerinde işlemler gerçekleştirmek için kullanılmaktadır.
 
-Operatör Türleri ve Örnekler
-  * Aritmetik Operatörler  
-  * Karşılaştırma Operatörleri  
+2. Operatör Türleri ve Örnekler
+  2.1. Aritmetik Operatörler  
+  2.2. Karşılaştırma Operatörleri  
   * Mantıksal Operatörler  
   * Atama Operatörleri  
   * Bit Düzeyinde Operatörler   
