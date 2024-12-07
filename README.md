@@ -32,6 +32,8 @@ Bu ders içerisinde;
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-4.png)
 
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
+
 4.2.4. Atama Operatörleri  
   
 4.2.5. Bit Düzeyinde Operatörler   
@@ -46,7 +48,7 @@ Bu ders içerisinde;
 4.4. Uygulamalı Örnekler ve Alıştırmalar
 
 
-https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png
+
 
 ---
   
