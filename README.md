@@ -54,6 +54,10 @@ Bu ders içerisinde;
 
 4.2.5. Bit Düzeyinde Operatörler
 
+Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üzerinde işlem yapmak için kullanılır. Bu operatörler, sayıları bit seviyesinde işler ve genellikle düşük seviyeli programlama veya performans gerektiren uygulamalarda tercih edilmektedir.
+
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Operator_tablosu-3.png)
+
 ---
 
 4.3. Operatör İşlem Önceliği 
