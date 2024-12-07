@@ -12,7 +12,7 @@ Bu ders içerisinde;
   2.3. Mantıksal Operatörler  
   2.4. Atama Operatörleri  
   2.5. Bit Düzeyinde Operatörler   
-3. Operatör Önceliği  
+3. Operatör İşlem Önceliği  
 4. Uygulamalı Örnekler ve Alıştırmalar
 5. ASCII Tablosu
   
