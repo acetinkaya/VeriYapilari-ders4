@@ -14,7 +14,7 @@ Bu ders içerisinde;
   2.5. Bit Düzeyinde Operatörler   
 3. Operatör Önceliği  
 4. Uygulamalı Örnekler ve Alıştırmalar
-* ASCII Tablosu
+5. ASCII Tablosu
   
 ---
 
