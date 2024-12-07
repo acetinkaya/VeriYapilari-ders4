@@ -25,14 +25,20 @@ Bu ders içerisinde;
 4.2. Operatör Türleri ve Örnekler
 
 4.2.1. Aritmetik Operatörler  
+
+---
   
 4.2.2. Karşılaştırma Operatörleri  
-  
+
+---
+
 4.2.3. Mantıksal Operatörler  
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-4.png)
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
+
+---
 
 4.2.4. Atama Operatörleri  
   
