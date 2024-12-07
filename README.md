@@ -5,9 +5,9 @@
 
 Bu ders içerisinde;
 
-* Operatör Nedir?  
-* Operatör Türleri ve Örnekler  
-  * Aritmetik Operatörler  
+1 Operatör Nedir?  
+2 Operatör Türleri ve Örnekler  
+  2.1. Aritmetik Operatörler  
   * Karşılaştırma Operatörleri  
   * Mantıksal Operatörler  
   * Atama Operatörleri  
