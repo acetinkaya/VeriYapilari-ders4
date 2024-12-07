@@ -5,11 +5,11 @@
 
 Bu ders içerisinde;
 
-1. Operatör Nedir?  
-2. Operatör Türleri ve Örnekler  
-  2.1. Aritmetik Operatörler  
-  2.2. Karşılaştırma Operatörleri  
-  2.3. Mantıksal Operatörler  
+4.1. Operatör Nedir?  
+4.2. Operatör Türleri ve Örnekler  
+  4.2.1. Aritmetik Operatörler  
+  4.2.2. Karşılaştırma Operatörleri  
+  4.2.3. Mantıksal Operatörler  
   2.4. Atama Operatörleri  
   2.5. Bit Düzeyinde Operatörler   
 3. Operatör İşlem Önceliği  
