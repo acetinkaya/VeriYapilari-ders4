@@ -32,8 +32,8 @@ Bu ders içerisinde;
   
 2.5. Bit Düzeyinde Operatörler   
   
-3. Operatör İşlem Önceliği
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
+3. Operatör İşlem Önceliği  
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
 
 4. Uygulamalı Örnekler ve Alıştırmalar
   
