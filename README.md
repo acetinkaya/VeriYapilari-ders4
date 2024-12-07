@@ -41,7 +41,11 @@ Bu ders içerisinde;
 ---
 
 4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
-  
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-2.png)
+
+---
+
 4.2.5. Bit Düzeyinde Operatörler   
 
 ---
