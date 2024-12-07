@@ -40,7 +40,7 @@ Bu ders içerisinde;
 
 ---
 
-4.2.4. Atama Operatörleri  
+4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
   
 4.2.5. Bit Düzeyinde Operatörler   
 
