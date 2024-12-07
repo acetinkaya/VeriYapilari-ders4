@@ -32,8 +32,9 @@ Bu ders içerisinde;
   
 2.5. Bit Düzeyinde Operatörler   
   
-3. Operatör Önceliği
-   
+3. Operatör İşlem Önceliği
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
+
 4. Uygulamalı Örnekler ve Alıştırmalar
   
 5. ASCII Tablosu
