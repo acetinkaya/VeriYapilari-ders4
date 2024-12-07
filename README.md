@@ -13,7 +13,11 @@ Bu ders içerisinde;
   * Atama Operatörleri  
   * Bit Düzeyinde Operatörler   
 * Operatör Önceliği  
-* Uygulamalı Örnekler ve Alıştırmalar  
+* Uygulamalı Örnekler ve Alıştırmalar
+  
+---
+
+Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanılan sembollerdir. Python'da operatörler, değişkenler ve değerler üzerinde işlemler gerçekleştirmek için kullanılmaktadır.
 
 
 
