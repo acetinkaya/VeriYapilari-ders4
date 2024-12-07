@@ -10,8 +10,8 @@ Bu ders içerisinde;
   2.1. Aritmetik Operatörler  
   2.2. Karşılaştırma Operatörleri  
   2.3. Mantıksal Operatörler  
-  * Atama Operatörleri  
-  * Bit Düzeyinde Operatörler   
+  2.4. Atama Operatörleri  
+  2.5. Bit Düzeyinde Operatörler   
 * Operatör Önceliği  
 * Uygulamalı Örnekler ve Alıştırmalar
 * ASCII Tablosu
