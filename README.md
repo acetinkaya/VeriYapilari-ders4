@@ -32,7 +32,7 @@ Bu ders içerisinde;
   
 4.2.2. Karşılaştırma Operatörleri  
 
-## İki değeri karşılaştırır ve boolean "True" veya "False" sonuç dönmektedir.
+# İlgili işlemdeki değerleri karşılaştırarak boolean "True" veya "False" sonuç elde edilmektedir.
 
 ![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Operator_tablosu-2.png)
 
