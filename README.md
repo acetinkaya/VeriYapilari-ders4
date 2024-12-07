@@ -95,4 +95,11 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print("a == b:", a == b)
     print("a < b:", a < b)
 
+# Örnek - 4:
+
+    a = True 
+    b = False
+    print("a and b:", a and b)
+    print("a or b:", a or b)
+    print("not a:", not a)
 
