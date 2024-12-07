@@ -10,7 +10,8 @@ Bu ders içerisinde;
 4.2.1. Aritmetik Operatörler  
 4.2.2. Karşılaştırma Operatörleri  
 4.2.3. Mantıksal Operatörler  
-4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
+4.2.4. Atama, Arttırma ve Azaltma Operatörleri
+4.2.5. Bit Düzeyinde Operatörler
 4.3. Operatör İşlem Önceliği  
 4.4. ASCII Tablosu
 4.5. Uygulamalı Örnekler ve Alıştırmalar
@@ -48,6 +49,10 @@ Bu ders içerisinde;
 4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-2.png)
+
+---
+
+4.2.5. Bit Düzeyinde Operatörler
 
 ---
 
