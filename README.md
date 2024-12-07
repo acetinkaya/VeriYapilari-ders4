@@ -108,3 +108,10 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     x = 7
     x += 3  # x = x + 3
     print(x) 
+    
+# Örnek - 6:
+
+    a = 7
+    b = 3
+    print("a & b:", a & b)
+    print("a << b:", a << b)
