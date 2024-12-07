@@ -8,8 +8,8 @@ Bu ders içerisinde;
 1 Operatör Nedir?  
 2 Operatör Türleri ve Örnekler  
   2.1. Aritmetik Operatörler  
-  * Karşılaştırma Operatörleri  
-  * Mantıksal Operatörler  
+  2.2. Karşılaştırma Operatörleri  
+  2.3. Mantıksal Operatörler  
   * Atama Operatörleri  
   * Bit Düzeyinde Operatörler   
 * Operatör Önceliği  
