@@ -1,0 +1,1 @@
+# VeriYapilari-ders4
