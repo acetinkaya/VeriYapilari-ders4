@@ -74,3 +74,18 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
   
 4.5. Uygulamalı Örnekler ve Alıştırmalar
 
+# Örnek - 1:
+
+    a = 7
+    b = 3
+    print(a + b)  
+
+# Örnek - 2:
+
+    a = 7
+    b = 3
+    print("Toplama:", a * b)
+    print("Üs alma:", a ** b)
+    print("Mod:", a % b)
+
+
