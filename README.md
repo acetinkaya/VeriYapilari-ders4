@@ -26,6 +26,8 @@ Bu ders içerisinde;
 
 4.2.1. Aritmetik Operatörler  
 
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Operator_tablosu-1.png)
+
 ---
   
 4.2.2. Karşılaştırma Operatörleri  
