@@ -39,8 +39,12 @@ Bu ders içerisinde;
 3. Operatör İşlem Önceliği  
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
 
+---
+
 4. Uygulamalı Örnekler ve Alıştırmalar
+
+---
   
-5. ASCII Tablosu
+6. ASCII Tablosu
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Asci.png)
