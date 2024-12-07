@@ -88,4 +88,11 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print("Üs alma:", a ** b)
     print("Mod:", a % b)
 
+# Örnek - 3:
+
+    a = 7 
+    b = 3
+    print("a == b:", a == b)
+    print("a < b:", a < b)
+
 
