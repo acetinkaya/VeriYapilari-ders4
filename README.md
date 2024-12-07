@@ -32,6 +32,10 @@ Bu ders içerisinde;
   
 4.2.2. Karşılaştırma Operatörleri  
 
+## İki değeri karşılaştırır ve boolean "True" veya "False" sonuç dönmektedir.
+
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Operator_tablosu-2.png)
+
 ---
 
 4.2.3. Mantıksal Operatörler  
