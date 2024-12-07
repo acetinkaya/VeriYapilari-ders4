@@ -1,4 +1,5 @@
-## VeriYapilari-ders4
+## Python - Veri Yapıları ve Algoritmalar
+
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
