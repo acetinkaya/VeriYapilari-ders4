@@ -5,14 +5,13 @@
 
 Bu ders içerisinde;
 
-4.1. Veri Türleri
-4.1.1. Integer (int) Veri Türü
-4.1.2. Float (float) Veri Türü
-4.1.3.
-4.1.4.
-4.1.5.
+4.1. Veri Türleri  
+4.1.1. Integer (int) Veri Türü  
+4.1.2. Float (float) Veri Türü  
+4.1.3. String (str) Veri Türü   
+4.1.4. Boolean (bool) Veri Türü  
 4.2. Operatör Nedir?    
-4.2.1. Aritmetik Operatörler    
+4.2.1. Aritmetik Operatörler     
 4.2.2. Karşılaştırma Operatörleri    
 4.2.3. Mantıksal Operatörler    
 4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
@@ -23,11 +22,17 @@ Bu ders içerisinde;
 
 ---
 
-4.1. Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanılan sembollerdir. Python'da operatörler, değişkenler ve değerler üzerinde işlemler gerçekleştirmek için kullanılmaktadır.
+4.1. Veri Türleri   
+4.1.1. Integer (int) Veri Türü   
+4.1.2. Float (float) Veri Türü   
+4.1.3. String (str) Veri Türü    
+4.1.4. Boolean (bool) Veri Türü   
 
 ---
 
-4.2. Operatör Türleri ve Örnekler
+4.2. Operatör Nedir?  
+
+Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanılan sembollerdir. Python'da operatörler, değişkenler ve değerler üzerinde işlemler gerçekleştirmek için kullanılmaktadır.
 
 4.2.1. Aritmetik Operatörler  
 
