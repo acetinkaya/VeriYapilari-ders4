@@ -84,11 +84,25 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
 
 # Örnek - 1:
 
+    Ders_no = 4   # Integer (int) Veri Türü
+    pi_sayisi = 3.14159  # Float (float) Veri Türü
+    Dersin_ismi = "Python - Veri Yapıları ve Algoritmalar" # String (str) Veri Türü
+    durum1 = True
+    durum2 = False
+
+    print(Ders_no)
+    print(pi_sayisi)
+    print(Dersin_ismi)
+    print(durum1)
+    print(durum2)
+    
+# Örnek - 2:
+
     a = 7
     b = 3
     print(a + b)  
 
-# Örnek - 2:
+# Örnek - 3:
 
     a = 7
     b = 3
@@ -96,14 +110,14 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print("Üs alma:", a ** b)
     print("Mod:", a % b)
 
-# Örnek - 3:
+# Örnek - 4:
 
     a = 7 
     b = 3
     print("a == b:", a == b)
     print("a < b:", a < b)
 
-# Örnek - 4:
+# Örnek - 5:
 
     a = True 
     b = False
@@ -111,20 +125,20 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print("a or b:", a or b)
     print("not a:", not a)
     
-# Örnek - 5:
+# Örnek - 6:
 
     x = 7
     x += 3  # x = x + 3
     print(x) 
     
-# Örnek - 6:
+# Örnek - 7:
 
     a = 7
     b = 3
     print("a & b:", a & b)
     print("a << b:", a << b)
 
-# Örnek - 7:
+# Örnek - 8:
 
     print(7 & 3)  # 3
     print(7 | 3)  # 7
@@ -133,6 +147,6 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print(7 << 3) # 56
     print(7 >> 3) # 0
     
-# Örnek - 8:
+# Örnek - 9:
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
