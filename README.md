@@ -1,12 +1,17 @@
-## Python - Veri Yapıları ve Algoritmalar
-# Ders 4. Programlama Dilinde Operatör Kavramı ve İşlemler
+## Python - Veri Yapıları ve Algoritmalar  
+# Ders 4. Programlama Dilinde Veri Türleri ve Operatörler
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
 Bu ders içerisinde;
 
-4.1. Operatör Nedir?   
-4.2. Operatör Türleri ve Örnekler    
+4.1. Veri Türleri
+4.1.1. Integer (int) Veri Türü
+4.1.2. Float (float) Veri Türü
+4.1.3.
+4.1.4.
+4.1.5.
+4.2. Operatör Nedir?    
 4.2.1. Aritmetik Operatörler    
 4.2.2. Karşılaştırma Operatörleri    
 4.2.3. Mantıksal Operatörler    
