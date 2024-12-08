@@ -5,11 +5,11 @@
 
 Bu ders içerisinde;
 
-4.1. Veri Türleri  
-4.1.1. Integer (int) Veri Türü  
-4.1.2. Float (float) Veri Türü  
-4.1.3. String (str) Veri Türü   
-4.1.4. Boolean (bool) Veri Türü  
+4.1. Veri Türleri   
+4.1.1. Integer (int) Veri Türü   
+4.1.2. Float (float) Veri Türü   
+4.1.3. String (str) Veri Türü    
+4.1.4. Boolean (bool) Veri Türü   
 4.2. Operatör Nedir?    
 4.2.1. Aritmetik Operatörler     
 4.2.2. Karşılaştırma Operatörleri    
@@ -22,11 +22,11 @@ Bu ders içerisinde;
 
 ---
 
-4.1. Veri Türleri   
-4.1.1. Integer (int) Veri Türü   
-4.1.2. Float (float) Veri Türü   
-4.1.3. String (str) Veri Türü    
-4.1.4. Boolean (bool) Veri Türü   
+4.1. Veri Türleri  
+4.1.1. Integer (int) Veri Türü -> Tam sayıları temsil eder. Matematiksel işlemler ve sayısal veriler için kullanılır.  
+4.1.2. Float (float) Veri Türü -> Ondalıklı (kesirli) sayıları ifade eder.  
+4.1.3. String (str) Veri Türü  -> Metin verilerini saklar. Harfler, kelimeler, cümleler veya özel karakterler içerebilir.  
+4.1.4. Boolean (bool) Veri Türü  -> Koşulları kontrol etmek için kullanılır. Sadece iki değer alabilir: "True" (Doğru - 1) veya "False" (Yanlış - 0).  
 
 ---
 
