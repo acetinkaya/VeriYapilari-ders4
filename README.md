@@ -42,8 +42,6 @@ Bu ders içerisinde;
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-4.png)
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
-
 ---
 
 4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
@@ -125,3 +123,6 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     print(7 << 3) # 56
     print(7 >> 3) # 0
     
+# Örnek - 8:
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
