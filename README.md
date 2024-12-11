@@ -56,7 +56,7 @@ Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanı
 
 4.2.4. Atama, Arttırma ve Azaltma Operatörleri  
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-2.png)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Programlama-2.png)
 
 ---
 
