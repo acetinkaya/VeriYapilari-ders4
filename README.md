@@ -50,7 +50,7 @@ Operatörler, programlama dillerinde veri üzerinde işlem yapmak için kullanı
 
 4.2.3. Mantıksal Operatörler  
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-4.png)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Programlama-4.png)
 
 ---
 
