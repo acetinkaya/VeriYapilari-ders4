@@ -149,4 +149,4 @@ Bit düzeyinde (bitwise) operatörler, sayıların ikili (binary) temsilleri üz
     
 # Örnek - 9:
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-3.png)
+![alternatif metin](https://github.com/acetinkaya/VeriYapilari-ders4/blob/main/Programlama-3.png)
